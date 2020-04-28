@@ -36,6 +36,7 @@
 		AB233CFC2451254200471C08 /* Entry+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Entry+Convenience.swift"; sourceTree = "<group>"; };
 		AB233CFF2451256C00471C08 /* Journal.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Journal.xcdatamodel; sourceTree = "<group>"; };
 		AB7583DE2457783400A89918 /* EntryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryController.swift; sourceTree = "<group>"; };
+		AB937EC62457A1F800AF4F21 /* Journal 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Journal 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,9 +416,10 @@
 		AB233CFE2451256C00471C08 /* Journal.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				AB937EC62457A1F800AF4F21 /* Journal 2.xcdatamodel */,
 				AB233CFF2451256C00471C08 /* Journal.xcdatamodel */,
 			);
-			currentVersion = AB233CFF2451256C00471C08 /* Journal.xcdatamodel */;
+			currentVersion = AB937EC62457A1F800AF4F21 /* Journal 2.xcdatamodel */;
 			path = Journal.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
